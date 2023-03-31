@@ -17,8 +17,8 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  | 💻 Full Stack Developer |  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
- 
-
+<div align="center">
+ ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 -  🌐 Welcome to my github you can also checkout my <a href="">profile </a> and <a href = ""> blog</a> as well. 
 
 - :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
@@ -26,3 +26,4 @@
 - 💞️ I’m looking to collaborate on Javascript and Python tasks.
 - 📫 How to reach me thiragithinji@gmail.com
 
+</div>
