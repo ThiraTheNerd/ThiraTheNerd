@@ -56,7 +56,7 @@
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=thirathenerd&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirathenerd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thirathenerd)
 
