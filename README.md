@@ -20,7 +20,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
--  🌐 Welcome to my github you can also checkout my <a href="">profile </a> and <a href = ""> blog</a> as well. 
+-  🌐 Checkout my <a href="">profile </a> and <a href = ""> blog</a>. 
 
 - :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
 - 🌱 I’m currently learning Js.
