@@ -18,11 +18,11 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  | 💻 Full Stack Developer |  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-- Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> .Welcome to my github.
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to by github you can also Checkout my <a href="https://hemant.codes">profile </a> and <a href = ""> blog</a> as well. 
 - 👀 I’m interested in building innovative solutions and solving real world problems with code.
-- :woman_technologist: Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
-- 🌱 I’m currently learning Javasacript
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
+- 🌱 I’m currently learning Js.
 - 💞️ I’m looking to collaborate on Javascript and Python tasks.
-- 
+- :woman_technologist: 
 - 📫 How to reach me thiragithinji@gmail.com
 
