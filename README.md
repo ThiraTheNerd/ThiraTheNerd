@@ -19,7 +19,7 @@
 </div>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-<div align="center">
+
 -  🌐 Welcome to my github you can also checkout my <a href="">profile </a> and <a href = ""> blog</a> as well. 
 
 - :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
@@ -27,4 +27,3 @@
 - 💞️ I’m looking to collaborate on Javascript and Python tasks.
 - 📫 How to reach me thiragithinji@gmail.com
 
-</div>
