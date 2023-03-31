@@ -18,9 +18,9 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  | 💻 Full Stack Developer |  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
- Welcome to my github you can also checkout my <a href="">profile </a> and <a href = ""> blog</a> as well. 
+ 
 
--  🌐 
+-  🌐 Welcome to my github you can also checkout my <a href="">profile </a> and <a href = ""> blog</a> as well. 
 
 - :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
 - 🌱 I’m currently learning Js.
