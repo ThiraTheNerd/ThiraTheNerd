@@ -1,10 +1,9 @@
 ![githubbanner](https://user-images.githubusercontent.com/51013354/228838052-f59074c7-fe22-4fd2-856d-19423dbbf3c3.png)
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Mercy</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-
+   <h1>Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/mercythira/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
