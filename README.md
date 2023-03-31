@@ -18,13 +18,12 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  | 💻 Full Stack Developer |  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my github you can also checkout my <a href="">profile </a> and <a href = ""> blog</a> as well. 
+ Welcome to my github you can also checkout my <a href="">profile </a> and <a href = ""> blog</a> as well. 
 
-
+-  🌐 
 
 - :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
 - 🌱 I’m currently learning Js.
 - 💞️ I’m looking to collaborate on Javascript and Python tasks.
-- :woman_technologist: 
 - 📫 How to reach me thiragithinji@gmail.com
 
