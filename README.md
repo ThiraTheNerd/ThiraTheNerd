@@ -5,7 +5,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/mercythira/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<!--    <a href="https://www.linkedin.com/in/mercythira/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; -->
 <a href="https://twitter.com/ThiraGithinji"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp; 
 <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
@@ -15,10 +15,10 @@
  </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<!-- 
+-  🌐 Checkout my <a href="">profile </a> and <a href = "https://medium.com/@thiragithinji"> blog</a>.  -->
 
--  🌐 Checkout my <a href="">profile </a> and <a href = "https://medium.com/@thiragithinji"> blog</a>. 
-
-- :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
+<!-- - :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/) -->
 - 🌱 I’m currently learning  Web Development Technologies in Frontend.
 - 💞️ I’m looking to collaborate on Javascript and Python tasks.
 - 📫 How to reach me thiragithinji@gmail.com
