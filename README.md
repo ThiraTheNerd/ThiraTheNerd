@@ -21,7 +21,7 @@
 - :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
 - 🌱 I’m currently learning  Web Development Technologies in Frontend.
 - 💞️ I’m looking to collaborate on Javascript and Python tasks.
-- 📫 How to reach me thiragithinji@gmail.com
+- 📫 How to reach me mercythira1@gmail.com
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
